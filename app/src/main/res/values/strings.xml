@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Error Estimation</string>
+    <string name="measure_time">测量次数：</string>
+    <string name="instrument_error">仪器误差：</string>
+    <string name="first_time">第一次：</string>
+    <string name="second_time">第二次：</string>
+    <string name="third_time">第三次：</string>
+    <string name="fourth_time">第四次：</string>
+    <string name="fifth_time">第五次：</string>
+    <string name="sixth_time">第六次：</string>
+    <string name="seventh_time">第七次：</string>
+    <string name="eighth_time">第八次：</string>
+    <string name="ninth_time">第九次：</string>
+    <string name="tenth_time">第十次：</string>
+    <string name="average">算术平均值：</string>
+    <string name="standard_error">平均值的标准误差：</string>
+    <string name="a_class">A类分量：</string>
+    <string name="b_class">B类分量：</string>
+    <string name="uncertainty">合成不确定度：</string>
+    <string name="relative_error">相对误差：</string>
+    <string name="experiment_data">实验数据</string>
+    <string name="error">误差</string>
+    <string name="snackbar_check_data">请检查输入的数据</string>
+</resources>
